@@ -1,4 +1,4 @@
-package br.com.marcio.greetingservice;
+package br.com.marcio.greetingservice.models;
 
 public class Greeting {
 	
